@@ -1,18 +1,11 @@
 # RE_poster_citation
-J. Lin, Y. Liu, Q. Zeng, M. Jiang, and J. Cleland-Huang, “Traceability
-transformed: Generating more accurate links with pre-trained bert mod-
-els,” in 2021 IEEE/ACM 43rd International Conference on Software
-Engineering (ICSE), pp. 324–335, IEEE, 2021.
+[1] J. Lin, Y. Liu, Q. Zeng, M. Jiang, and J. Cleland-Huang, “Traceability transformed: Generating more accurate links with pre-trained bert models,” in 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), pp. 324–335, IEEE, 2021.
 
-M. Haering, C. Stanik, and W. Maalej, “Automatically matching bug
-reports with related app reviews,” in 2021 IEEE/ACM 43rd International
-Conference on Software Engineering (ICSE), pp. 970–981, IEEE, 2021.
+[2] M. Haering, C. Stanik, and W. Maalej, “Automatically matching bug reports with related app reviews,” in 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE), pp. 970–981, IEEE, 2021.
 
-M. Rath, J. Rendall, J. L. Guo, J. Cleland-Huang, and P. M ̈ader,
-“Traceability in the wild: automatically augmenting incomplete trace
-links,” in Proceedings of the 40th International Conference on Software
-Engineering, pp. 834–845, 2018.
-[30] R. Xie, L. Chen, W. Ye, Z. Li, T. Hu, D. Du, and S. Zhang, “Deeplink: A
+[3] M. Rath, J. Rendall, J. L. Guo, J. Cleland-Huang, and P. M ̈ader, “Traceability in the wild: automatically augmenting incomplete trace links,” in Proceedings of the 40th International Conference on Software Engineering, pp. 834–845, 2018.
+
+R. Xie, L. Chen, W. Ye, Z. Li, T. Hu, D. Du, and S. Zhang, “Deeplink: A
 code knowledge graph based deep learning approach for issue-commit
 link recovery,” in 2019 IEEE 26th International Conference on Software
 Analysis, Evolution and Reengineering (SANER), pp. 434–444, IEEE,
