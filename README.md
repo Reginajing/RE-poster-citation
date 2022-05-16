@@ -3,10 +3,12 @@ J. Lin, Y. Liu, Q. Zeng, M. Jiang, and J. Cleland-Huang, “Traceability
 transformed: Generating more accurate links with pre-trained bert mod-
 els,” in 2021 IEEE/ACM 43rd International Conference on Software
 Engineering (ICSE), pp. 324–335, IEEE, 2021.
-[28] M. Haering, C. Stanik, and W. Maalej, “Automatically matching bug
+
+M. Haering, C. Stanik, and W. Maalej, “Automatically matching bug
 reports with related app reviews,” in 2021 IEEE/ACM 43rd International
 Conference on Software Engineering (ICSE), pp. 970–981, IEEE, 2021.
-[29] M. Rath, J. Rendall, J. L. Guo, J. Cleland-Huang, and P. M ̈ader,
+
+M. Rath, J. Rendall, J. L. Guo, J. Cleland-Huang, and P. M ̈ader,
 “Traceability in the wild: automatically augmenting incomplete trace
 links,” in Proceedings of the 40th International Conference on Software
 Engineering, pp. 834–845, 2018.
